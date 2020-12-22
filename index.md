@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to an exciting journey to the world of linear-algebra, the bed-rock of Artificial-Intelligence...
 
 You can use the [editor on GitHub](https://github.com/Lawrence-Krukrubo/essential_linear_algebra_for_data_science.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
